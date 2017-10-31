@@ -40,5 +40,5 @@ When you're done, and wish to submit your changes, you must “commit”, “pus
    [gh]: <https://github.com/dae/anki> "Anki's source-code"
    [CrowdAnki]: <https://github.com/Stvad/CrowdAnki> "A deck-to-JSON/git plugin for Anki"
    [Sign up]: <https://github.com/join> "GitHub's sign-up page"
-   [fork]: <./fork> "Fork this project to your own GitHub account"
+   [fork]: <../../fork> "Fork this project to your own GitHub account"
    [GitHub Desktop]: <https://desktop.github.com> "The GitHub desktop app"
