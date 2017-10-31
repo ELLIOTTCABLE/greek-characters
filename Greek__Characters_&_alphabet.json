@@ -1,0 +1,1132 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "fc66c23a-be7d-11e7-a399-f40f24223d5f", 
+    "deck_config_uuid": "fc693742-be7d-11e7-9f45-f40f24223d5f", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "addon_audio_download_language": "en", 
+            "autoplay": true, 
+            "crowdanki_uuid": "fc693742-be7d-11e7-9f45-f40f24223d5f", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "LBEIMinAfter": 4, 
+                "LBEIMinBefore": 4, 
+                "LBGIMinAfter": 1, 
+                "LBGIMinBefore": 1, 
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "latex-1c8eb7c64afd512d7bb03c5fc84cd24e3cba6df3.png", 
+        "latex-1c8eb7c64afd512d7bb03c5fc84cd24e3cba6df3.png.dat", 
+        "latex-63f75e94f77d87c545d39f15447ead752819572e.png", 
+        "latex-a5c4849b47ab832983fb141dc209826b82b9219e.png", 
+        "latex-1c44af540ca99d7dc6288f26b526aa01750cfe76.png.dat", 
+        "latex-f75a6d9b151c99597c4019c3f3f370049716e930.png", 
+        "latex-552d125947cd79c8f94198c39f9a6e30cba29407.png.dat", 
+        "latex-9eb04bc62ee7d91c30ff984cbf275e1df1cecba7.png.dat", 
+        "latex-925cee8d075b67fca3a993c34300268b4129eeb2.png.dat", 
+        "latex-f7fe9125f0d551150f036d99b6f66a5423ce40f0.png", 
+        "latex-7a1107481fb05a5108ff2a5db73f1831b2365358.png.dat", 
+        "latex-2d09f775f6244852de67d6cfb0fa027f3c6dbe1b.png", 
+        "latex-2316a446f388d82a4e8fac4340f67ffcdafdb834.png.dat", 
+        "latex-df295283f449d1e4b3baaa4e6069d10595011a85.png.dat", 
+        "latex-c847ba150fd5bd0169a4fc214e535acad157e86f.png.dat", 
+        "latex-3dc4fe44d7aeb526eee7ed072d20249710dca531.png.dat", 
+        "latex-540e04d020c22b251fc9449e08f3c53d91af08ad.png.dat", 
+        "latex-c0c8faa90d78295f6ec3f836dbf612b1ce0916a3.png", 
+        "latex-6379674e5c55b654ce19db333ea115e31fbeaa1d.png", 
+        "latex-ff7b36d74fa7f1832c1b22fbb956806e58514c95.png", 
+        "latex-3cac41e1293206fa6b994d9a75e4279d328f8147.png.dat", 
+        "latex-63d24c5fd76802163487802c1cd733a5096b8d0b.png", 
+        "latex-9ba4d6b068bcb7aa8d404c5d418232c992872fd8.png.dat", 
+        "latex-f3175dd5e7b0aa915921ce0b72792a0aaf94cf10.png.dat", 
+        "latex-97812491280fdfd1901ae26870daa28b731a7c5f.png", 
+        "latex-1c44af540ca99d7dc6288f26b526aa01750cfe76.png", 
+        "latex-bbb0f6d4d718f296889454e24cc72c4353f648ea.png.dat", 
+        "latex-f71e74e9a091b86d5a91cb71be7ca5fc6e945a87.png.dat", 
+        "latex-4ebc904f702dacaa48ad2472c19dfbe1c0cb9352.png.dat", 
+        "latex-925cee8d075b67fca3a993c34300268b4129eeb2.png", 
+        "latex-cb784d649e883bbe555ca644c93fbb4c1087b29b.png.dat", 
+        "latex-7a1107481fb05a5108ff2a5db73f1831b2365358.png", 
+        "latex-ac4461a586a519b41352648bfb1e3d73f3924693.png.dat", 
+        "latex-df1f66fb6c0e5825f5d36fab80fa70e8a6c6b9bf.png", 
+        "latex-6754a3f4bbd4308e9fa28a87a74830e5040031c6.png.dat", 
+        "latex-1bbb30c584856add59b1091056b5af4ceb4895a0.png", 
+        "latex-1bbb30c584856add59b1091056b5af4ceb4895a0.png.dat", 
+        "latex-6c33a52c22e41a8de0ec92e69c007b30ff748cf4.png.dat", 
+        "latex-6c33a52c22e41a8de0ec92e69c007b30ff748cf4.png", 
+        "latex-f9e69be6f1f53ea95739f762a7938f4c483acf24.png.dat", 
+        "latex-5909ff50763fad721b2c23ce4082f5ddc95dc78e.png.dat", 
+        "latex-a50eef48bd4addeb0826d1a55a28aad47aaaa541.png.dat", 
+        "latex-540e04d020c22b251fc9449e08f3c53d91af08ad.png", 
+        "latex-1e40db01f5211dfdb0d20d15f9af7ad0226f6439.png", 
+        "latex-a50eef48bd4addeb0826d1a55a28aad47aaaa541.png", 
+        "latex-4e5a0ff4141b2719425230d210bc822f788f3ab1.png.dat", 
+        "latex-c847ba150fd5bd0169a4fc214e535acad157e86f.png", 
+        "latex-7b9fb622bff6791de0680b2e00e71f2f96413e88.png.dat", 
+        "latex-d587b8727d97de8c92fed1c2af06183b2b1c3a40.png.dat", 
+        "latex-65d4e343b8792d1e52d7c023a1711909c278b07a.png", 
+        "latex-0dead8c96223e6e4d9487444bbb68e509e335ca0.png.dat", 
+        "latex-df295283f449d1e4b3baaa4e6069d10595011a85.png", 
+        "latex-eca95dd1856be0a152ec52ccd8833adb50ef8012.png", 
+        "latex-de4eba2724da436d747b31dc37d7cde835d581e7.png.dat", 
+        "latex-ff7b36d74fa7f1832c1b22fbb956806e58514c95.png.dat", 
+        "latex-f18ea0defb6ab062d9620bbf46c5898cd6a5e393.png.dat", 
+        "latex-9ba4d6b068bcb7aa8d404c5d418232c992872fd8.png", 
+        "latex-6cacbea27fc4fe67e1044824b96f65e5aa2b9abd.png", 
+        "latex-1bc3cfb176776c3af1c41c6ac3711568c9b210cc.png.dat", 
+        "latex-db96732257ac81bdfb1f7ace4854236a65767264.png.dat", 
+        "latex-0f496f31e007655d7d0c8b3bc74cebdd961e8f90.png", 
+        "latex-63f75e94f77d87c545d39f15447ead752819572e.png.dat", 
+        "latex-d19463943dcac20dd282684a8ec81c0bfe3aac3d.png", 
+        "latex-879ccdf74b7b38052f603abb1fc57b9b7bd19f64.png.dat", 
+        "latex-b12dbdb8237509b5cee8a9498183da4175931a73.png", 
+        "latex-f4ae0e2548b43972dc53b0cbf29fcf17f8b091b3.png", 
+        "latex-de4eba2724da436d747b31dc37d7cde835d581e7.png", 
+        "latex-6cacbea27fc4fe67e1044824b96f65e5aa2b9abd.png.dat", 
+        "latex-cbb9f23587c4b8cde8882d706ee57ea2f7d8bb6b.png", 
+        "latex-e94f577d3a2afd6ddcbb52db8e9a28395734790f.png.dat", 
+        "latex-47e51d8e2fc8fd470eea480d172e9d75127608bc.png", 
+        "latex-11d3675afaca57409a2269428dade36754ee64ca.png.dat", 
+        "latex-e34b9397dbdee66cf3d2c497453aa627588b9c9a.png", 
+        "latex-3e80ec6fc7139a7b43b92ae70831fb2e02b57e17.png", 
+        "latex-e34b9397dbdee66cf3d2c497453aa627588b9c9a.png.dat", 
+        "latex-3cac41e1293206fa6b994d9a75e4279d328f8147.png", 
+        "latex-a00d621389c4038d16b91a6a4db72add8832d944.png", 
+        "latex-13f61e679dabcdc89ef58b65d964ebcdc12eb605.png.dat", 
+        "latex-2d09f775f6244852de67d6cfb0fa027f3c6dbe1b.png.dat", 
+        "latex-13f61e679dabcdc89ef58b65d964ebcdc12eb605.png", 
+        "latex-9eb04bc62ee7d91c30ff984cbf275e1df1cecba7.png", 
+        "latex-552d125947cd79c8f94198c39f9a6e30cba29407.png", 
+        "latex-c0c8faa90d78295f6ec3f836dbf612b1ce0916a3.png.dat", 
+        "latex-65d4e343b8792d1e52d7c023a1711909c278b07a.png.dat", 
+        "latex-d587b8727d97de8c92fed1c2af06183b2b1c3a40.png", 
+        "latex-3e80ec6fc7139a7b43b92ae70831fb2e02b57e17.png.dat", 
+        "latex-d87bc3b7122fce55e66c57071f1bde9270fc9bd8.png.dat", 
+        "latex-ded3e1d45f54b96f79baf5a0a2cbb68354390b98.png", 
+        "latex-11d3675afaca57409a2269428dade36754ee64ca.png", 
+        "latex-6754a3f4bbd4308e9fa28a87a74830e5040031c6.png", 
+        "latex-41c1cce2e78dc3cb16c39d75001047cd913480d0.png.dat", 
+        "latex-0a155cc7342a0f7d7565d28d10287de4dcc9f00f.png", 
+        "latex-f3175dd5e7b0aa915921ce0b72792a0aaf94cf10.png", 
+        "latex-7b9fb622bff6791de0680b2e00e71f2f96413e88.png", 
+        "latex-3dc4fe44d7aeb526eee7ed072d20249710dca531.png", 
+        "latex-a5c4849b47ab832983fb141dc209826b82b9219e.png.dat", 
+        "latex-b12dbdb8237509b5cee8a9498183da4175931a73.png.dat", 
+        "latex-e94f577d3a2afd6ddcbb52db8e9a28395734790f.png", 
+        "latex-eca95dd1856be0a152ec52ccd8833adb50ef8012.png.dat", 
+        "latex-ef4adc36215ae7dfdc4aa53166d6de4e8d650453.png", 
+        "latex-e4e36c508bc80b1ec3019612d55cf233624a2bd7.png.dat", 
+        "latex-b54a633ee5a210c84f29e2b0fbba9903d726a5a7.png.dat", 
+        "latex-b54a633ee5a210c84f29e2b0fbba9903d726a5a7.png", 
+        "latex-f75a6d9b151c99597c4019c3f3f370049716e930.png.dat", 
+        "latex-f71e74e9a091b86d5a91cb71be7ca5fc6e945a87.png", 
+        "latex-f9e69be6f1f53ea95739f762a7938f4c483acf24.png", 
+        "latex-e38ba3f0e0335186e3776742470525c9cfd13b10.png.dat", 
+        "latex-df1f66fb6c0e5825f5d36fab80fa70e8a6c6b9bf.png.dat", 
+        "latex-cb784d649e883bbe555ca644c93fbb4c1087b29b.png", 
+        "latex-ded3e1d45f54b96f79baf5a0a2cbb68354390b98.png.dat", 
+        "latex-41c1cce2e78dc3cb16c39d75001047cd913480d0.png", 
+        "latex-5909ff50763fad721b2c23ce4082f5ddc95dc78e.png", 
+        "latex-bbb0f6d4d718f296889454e24cc72c4353f648ea.png", 
+        "latex-0dead8c96223e6e4d9487444bbb68e509e335ca0.png", 
+        "latex-1e40db01f5211dfdb0d20d15f9af7ad0226f6439.png.dat", 
+        "latex-47e51d8e2fc8fd470eea480d172e9d75127608bc.png.dat", 
+        "latex-f4ae0e2548b43972dc53b0cbf29fcf17f8b091b3.png.dat", 
+        "latex-4ebc904f702dacaa48ad2472c19dfbe1c0cb9352.png", 
+        "latex-20d616f56e186db9c58b1186ea41ee19d68e3009.png", 
+        "latex-c87edce926ed012a83897d6d0ff11b00166259d4.png.dat", 
+        "latex-ef4adc36215ae7dfdc4aa53166d6de4e8d650453.png.dat", 
+        "latex-ac4461a586a519b41352648bfb1e3d73f3924693.png", 
+        "latex-d87bc3b7122fce55e66c57071f1bde9270fc9bd8.png", 
+        "latex-97812491280fdfd1901ae26870daa28b731a7c5f.png.dat", 
+        "latex-db96732257ac81bdfb1f7ace4854236a65767264.png", 
+        "latex-1bc3cfb176776c3af1c41c6ac3711568c9b210cc.png", 
+        "latex-879ccdf74b7b38052f603abb1fc57b9b7bd19f64.png", 
+        "latex-63d24c5fd76802163487802c1cd733a5096b8d0b.png.dat", 
+        "latex-2316a446f388d82a4e8fac4340f67ffcdafdb834.png", 
+        "latex-4e5a0ff4141b2719425230d210bc822f788f3ab1.png", 
+        "latex-3a80a74e34cff9e84bc256daa1ed1661683eef0f.png.dat", 
+        "latex-0f496f31e007655d7d0c8b3bc74cebdd961e8f90.png.dat", 
+        "latex-20d616f56e186db9c58b1186ea41ee19d68e3009.png.dat", 
+        "latex-e38ba3f0e0335186e3776742470525c9cfd13b10.png", 
+        "latex-e4e36c508bc80b1ec3019612d55cf233624a2bd7.png", 
+        "latex-6379674e5c55b654ce19db333ea115e31fbeaa1d.png.dat", 
+        "latex-f18ea0defb6ab062d9620bbf46c5898cd6a5e393.png", 
+        "latex-a00d621389c4038d16b91a6a4db72add8832d944.png.dat", 
+        "latex-d19463943dcac20dd282684a8ec81c0bfe3aac3d.png.dat", 
+        "latex-0a155cc7342a0f7d7565d28d10287de4dcc9f00f.png.dat", 
+        "latex-cbb9f23587c4b8cde8882d706ee57ea2f7d8bb6b.png.dat", 
+        "latex-c87edce926ed012a83897d6d0ff11b00166259d4.png", 
+        "latex-f7fe9125f0d551150f036d99b6f66a5423ce40f0.png.dat", 
+        "latex-3a80a74e34cff9e84bc256daa1ed1661683eef0f.png"
+    ], 
+    "name": "Greek: Characters & alphabet", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Character shape (lowercase)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Character shape (opt. uppercase)", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Character set / language", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Character name", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage[greek,english]{babel}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Language: Character (w/ reversed card)", 
+            "req": [
+                [
+                    0, 
+                    "any", 
+                    [
+                        1, 
+                        2, 
+                        3
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        1
+                    ]
+                ], 
+                [
+                    2, 
+                    "any", 
+                    [
+                        0, 
+                        1, 
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Character shape (lowercase)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Name > Lowercase shape", 
+                    "ord": 0, 
+                    "qfmt": "<p>What is the {{#Character shape (opt. uppercase)}}(lowercase){{/Character shape (opt. uppercase)}} shape of this character?</p>\n\n{{Character set / language}} “{{Character name}}”"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Character shape (opt. uppercase)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Name > Uppercase shape", 
+                    "ord": 1, 
+                    "qfmt": "{{#Character shape (opt. uppercase)}}\n<p>What is the (uppercase) shape of this character?</p>\n\n{{Character set / language}} “{{Character name}}”\n{{/Character shape (opt. uppercase)}}"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n“{{Character name}}”\n\n<p>{{Extra}}</p>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Shapes > Name", 
+                    "ord": 2, 
+                    "qfmt": "<p>What is the name of the pictured {{Character set / language}} character{{#Character shape (opt. uppercase)}}s{{/Character shape (opt. uppercase)}}?</p>\n\n{{#Character shape (opt. uppercase)}}{{Character shape (opt. uppercase)}}, {{/Character shape (opt. uppercase)}}\n{{Character shape (lowercase)}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "fc69cae8-be7d-11e7-8f87-f40f24223d5f", 
+            "css": "/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Title", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Settings", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text1", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text2", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text3", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text4", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text5", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text6", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text7", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text8", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text9", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text10", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text11", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text12", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text13", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text14", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text15", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text16", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text17", 
+                    "ord": 21, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text18", 
+                    "ord": 22, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text19", 
+                    "ord": 23, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text20", 
+                    "ord": 24, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text21", 
+                    "ord": 25, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text22", 
+                    "ord": 26, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text23", 
+                    "ord": 27, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text24", 
+                    "ord": 28, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text25", 
+                    "ord": 29, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Full", 
+                    "ord": 30, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage[greek,english]{babel}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Language: Alphabet (overlapping-cloze)", 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"back\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Text21}}\n    {{cloze:Text22}}\n    {{cloze:Text23}}\n    {{cloze:Text24}}\n    {{cloze:Text25}}\n    {{cloze:Full}}\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\">\n    {{#Remarks}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n    </div>\n    {{/Remarks}}\n    {{#Sources}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n    </div>\n    {{/Sources}}\n  </div>\n</div>\n<script>\n  // remove cloze syntax from revealed hint\n  var hint = document.querySelector('.fullhint>[id^=\"hint\"]')\n  var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg, \"$2\")\n  hint.innerHTML = html\n  // scroll to cloze\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(function(){\n      const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n      const rect = cloze1.getBoundingClientRect();\n      const absTop = rect.top + window.pageYOffset;\n      const absBot = rect.bottom + window.pageYOffset;\n      if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);};\n    }, 1);\n  }, false);\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "cloze-ol", 
+                    "ord": 0, 
+                    "qfmt": "<div class=\"front\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Text21}}\n    {{cloze:Text22}}\n    {{cloze:Text23}}\n    {{cloze:Text24}}\n    {{cloze:Text25}}\n    {{cloze:Full}}\n    <div class=\"hidden\">\n       <div>{{Original}}</div>\n    </div>\n  </div>\n</div>"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{a}[/latex]", 
+                "[latex]\\textgreek{A}[/latex]", 
+                "Greek", 
+                "alpha", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "IW*JI3tpkH", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{b}[/latex]", 
+                "[latex]\\textgreek{B}[/latex]", 
+                "Greek", 
+                "beta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "vtQRuJb9?-", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{g}[/latex]", 
+                "[latex]\\textgreek{G}[/latex]", 
+                "Greek", 
+                "gamma", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "f,5ph!va2r", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{d}[/latex]", 
+                "[latex]\\textgreek{D}[/latex]", 
+                "Greek", 
+                "delta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "w*rP~1&.Lj", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{e}[/latex]", 
+                "[latex]\\textgreek{E}[/latex]", 
+                "Greek", 
+                "epsilon", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "N/M/r_Q?:P", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{z}[/latex]", 
+                "[latex]\\textgreek{Z}[/latex]", 
+                "Greek", 
+                "zeta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "N)z>v:0-oa", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{h}[/latex]", 
+                "[latex]\\textgreek{H}[/latex]", 
+                "Greek", 
+                "eta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "wiZ.Y~?/j-", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{j}[/latex]", 
+                "[latex]\\textgreek{J}[/latex]", 
+                "Greek", 
+                "theta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "jxa-8uwP,t", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{i}[/latex]", 
+                "[latex]\\textgreek{I}[/latex]", 
+                "Greek", 
+                "iota", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "E2tMBDVwP;", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{k}[/latex]", 
+                "[latex]\\textgreek{K}[/latex]", 
+                "Greek", 
+                "kappa", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "qOfY)8+Pz@", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{l}[/latex]", 
+                "[latex]\\textgreek{L}[/latex]", 
+                "Greek", 
+                "lambda", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "m%)JL/3|z7", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{m}[/latex]", 
+                "[latex]\\textgreek{M}[/latex]", 
+                "Greek", 
+                "mu", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Lp,;+1$^2L", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{n}[/latex]", 
+                "[latex]\\textgreek{N}[/latex]", 
+                "Greek", 
+                "nu", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "AMIfTWf/^@", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{x}[/latex]", 
+                "[latex]\\textgreek{X}[/latex]", 
+                "Greek", 
+                "xi", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Nc1_taFy^,", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{o}[/latex]", 
+                "[latex]\\textgreek{O}[/latex]", 
+                "Greek", 
+                "omicron", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "g<1Hr@_=o0", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{p}[/latex]", 
+                "[latex]\\textgreek{P}[/latex]", 
+                "Greek", 
+                "pi", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "P;A=D6DWp]", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{r}[/latex]", 
+                "[latex]\\textgreek{R}[/latex]", 
+                "Greek", 
+                "rho", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "mI!iw&^NAD", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{σ}[/latex] /&nbsp;[latex]\\textgreek{s}[/latex]", 
+                "[latex]\\textgreek{S}[/latex]", 
+                "Greek", 
+                "sigma", 
+                "<blockquote>\n<p>(The letter sigma ⟨Σ⟩ has two different lowercase forms, ⟨σ⟩ and ⟨ς⟩, with ⟨ς⟩ being used in word-final position and ⟨σ⟩ elsewhere.)</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Greek_alphabet#cite_note-nicholas_finalsigma-16\">https://en.wikipedia.org/wiki/Greek_alphabet#cite_note-nicholas_finalsigma-16</a></p>\n</blockquote><!----SBAdata:eyJpc2NvbnZlcnRlZCI6ICJUcnVlIiwgImxhc3Rtb2RpZmllZCI6IDE1MDk0NTYwNjYsICJpZCI6ICIxNTA5NDU1NjM4NzQ1LTAwNCIsICJtZCI6ICImZ3Q7IChUaGUgbGV0dGVyIHNpZ21hIFx1MjdlOFx1MDNhM1x1MjdlOSBoYXMgdHdvIGRpZmZlcmVudCBsb3dlcmNhc2UgZm9ybXMsIFx1MjdlOFx1MDNjM1x1MjdlOSBhbmQgXHUyN2U4XHUwM2MyXHUyN2U5LCB3aXRoIFx1MjdlOFx1MDNjMlx1MjdlOSBiZWluZyB1c2VkIGluIHdvcmQtZmluYWwgcG9zaXRpb24gYW5kIFx1MjdlOFx1MDNjM1x1MjdlOSBlbHNld2hlcmUuKVxuICBcbiZndDsgJmx0O2h0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0dyZWVrX2FscGhhYmV0I2NpdGVfbm90ZS1uaWNob2xhc19maW5hbHNpZ21hLTE2Jmd0O1xuIn0=---->"
+            ], 
+            "flags": 0, 
+            "guid": "k{p2TQZVeg", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{t}[/latex]", 
+                "[latex]\\textgreek{T}[/latex]", 
+                "Greek", 
+                "tau", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "lkWW$`^2RU", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{u}[/latex]", 
+                "[latex]\\textgreek{u}[/latex]", 
+                "Greek", 
+                "upsilon", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "l2snY&D.YQ", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{f}[/latex]", 
+                "[latex]\\textgreek{F}[/latex]", 
+                "Greek", 
+                "phi", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "n-~<2~@{HT", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{q}[/latex]", 
+                "[latex]\\textgreek{Q}[/latex]", 
+                "Greek", 
+                "chi", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "co&S=@ep&|", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{y}[/latex]", 
+                "[latex]\\textgreek{Y}[/latex]", 
+                "Greek", 
+                "psi", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "k6w%Auz|0C", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[latex]\\textgreek{w}[/latex]", 
+                "[latex]\\textgreek{W}[/latex]", 
+                "Greek", 
+                "omega", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "vC,Apj=<j^", 
+            "note_model_uuid": "fc696f94-be7d-11e7-9595-f40f24223d5f", 
+            "tags": [
+                "alphabet", 
+                "character", 
+                "language::Greek"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><div>[latex]\\textgreek{A}, \\textgreek{a}: “alpha”[/latex]</div><div>[latex]\\textgreek{B}, \\textgreek{b}: “beta”[/latex]</div><div>[latex]\\textgreek{G}, \\textgreek{g}: “gamma”[/latex]</div><div>[latex]\\textgreek{D}, \\textgreek{d}: “delta”[/latex]</div><div>[latex]\\textgreek{E}, \\textgreek{e}: “epsilon”[/latex]</div><div>[latex]\\textgreek{Z}, \\textgreek{z}: “zeta”[/latex]</div><div>[latex]\\textgreek{H}, \\textgreek{h}: “eta”[/latex]</div><div>[latex]\\textgreek{J}, \\textgreek{j}: “theta”[/latex]</div><div>[latex]\\textgreek{I}, \\textgreek{i}: “iota”[/latex]</div><div>[latex]\\textgreek{K}, \\textgreek{k}: “kappa”[/latex]</div><div>[latex]\\textgreek{L}, \\textgreek{l}: “lambda”[/latex]</div><div>[latex]\\textgreek{M}, \\textgreek{m}: “mu”[/latex]</div><div>[latex]\\textgreek{N}, \\textgreek{n}: “nu”[/latex]</div><div>[latex]\\textgreek{X}, \\textgreek{x}: “xi”[/latex]</div><div>[latex]\\textgreek{O}, \\textgreek{o}: “omicron”[/latex]</div><div>[latex]\\textgreek{P}, \\textgreek{p}: “pi”[/latex]</div><div>[latex]\\textgreek{R}, \\textgreek{r}: “rho”[/latex]</div><div>[latex]\\textgreek{S}, \\textgreek{σ} / \\textgreek{s}: “sigma”[/latex]</div><div>[latex]\\textgreek{T}, \\textgreek{t}: “tau”[/latex]</div><div>[latex]\\textgreek{U}, \\textgreek{u}: “upsilon”[/latex]</div><div>[latex]\\textgreek{F}, \\textgreek{f}: “phi”[/latex]</div><div>[latex]\\textgreek{Q}, \\textgreek{q}: “chi”[/latex]</div><div>[latex]\\textgreek{Y}, \\textgreek{y}: “psi”[/latex]</div><div>[latex]\\textgreek{W}, \\textgreek{w}: “omega”[/latex]</div></div>", 
+                "The Greek alphabet", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<div>{{c1::[latex]\\textgreek{A}, \\textgreek{a}: “alpha”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>[latex]\\textgreek{A}, \\textgreek{a}: “alpha”[/latex]</div><div>{{c2::[latex]\\textgreek{B}, \\textgreek{b}: “beta”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>[latex]\\textgreek{B}, \\textgreek{b}: “beta”[/latex]</div><div>{{c3::[latex]\\textgreek{G}, \\textgreek{g}: “gamma”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>[latex]\\textgreek{G}, \\textgreek{g}: “gamma”[/latex]</div><div>{{c4::[latex]\\textgreek{D}, \\textgreek{d}: “delta”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{D}, \\textgreek{d}: “delta”[/latex]</div><div>{{c5::[latex]\\textgreek{E}, \\textgreek{e}: “epsilon”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{E}, \\textgreek{e}: “epsilon”[/latex]</div><div>{{c6::[latex]\\textgreek{Z}, \\textgreek{z}: “zeta”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{Z}, \\textgreek{z}: “zeta”[/latex]</div><div>{{c7::[latex]\\textgreek{H}, \\textgreek{h}: “eta”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{H}, \\textgreek{h}: “eta”[/latex]</div><div>{{c8::[latex]\\textgreek{J}, \\textgreek{j}: “theta”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{J}, \\textgreek{j}: “theta”[/latex]</div><div>{{c9::[latex]\\textgreek{I}, \\textgreek{i}: “iota”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{I}, \\textgreek{i}: “iota”[/latex]</div><div>{{c10::[latex]\\textgreek{K}, \\textgreek{k}: “kappa”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{K}, \\textgreek{k}: “kappa”[/latex]</div><div>{{c11::[latex]\\textgreek{L}, \\textgreek{l}: “lambda”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{L}, \\textgreek{l}: “lambda”[/latex]</div><div>{{c12::[latex]\\textgreek{M}, \\textgreek{m}: “mu”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{M}, \\textgreek{m}: “mu”[/latex]</div><div>{{c13::[latex]\\textgreek{N}, \\textgreek{n}: “nu”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{N}, \\textgreek{n}: “nu”[/latex]</div><div>{{c14::[latex]\\textgreek{X}, \\textgreek{x}: “xi”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{X}, \\textgreek{x}: “xi”[/latex]</div><div>{{c15::[latex]\\textgreek{O}, \\textgreek{o}: “omicron”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{O}, \\textgreek{o}: “omicron”[/latex]</div><div>{{c16::[latex]\\textgreek{P}, \\textgreek{p}: “pi”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{P}, \\textgreek{p}: “pi”[/latex]</div><div>{{c17::[latex]\\textgreek{R}, \\textgreek{r}: “rho”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{R}, \\textgreek{r}: “rho”[/latex]</div><div>{{c18::[latex]\\textgreek{S}, \\textgreek{σ} / \\textgreek{s}: “sigma”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{S}, \\textgreek{σ} / \\textgreek{s}: “sigma”[/latex]</div><div>{{c19::[latex]\\textgreek{T}, \\textgreek{t}: “tau”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{T}, \\textgreek{t}: “tau”[/latex]</div><div>{{c20::[latex]\\textgreek{U}, \\textgreek{u}: “upsilon”[/latex]}}</div><div>...</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{U}, \\textgreek{u}: “upsilon”[/latex]</div><div>{{c21::[latex]\\textgreek{F}, \\textgreek{f}: “phi”[/latex]}}</div><div>...</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{F}, \\textgreek{f}: “phi”[/latex]</div><div>{{c22::[latex]\\textgreek{Q}, \\textgreek{q}: “chi”[/latex]}}</div><div>...</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{Q}, \\textgreek{q}: “chi”[/latex]</div><div>{{c23::[latex]\\textgreek{Y}, \\textgreek{y}: “psi”[/latex]}}</div><div>...</div>", 
+                "<div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>...</div><div>[latex]\\textgreek{Y}, \\textgreek{y}: “psi”[/latex]</div><div>{{c24::[latex]\\textgreek{W}, \\textgreek{w}: “omega”[/latex]}}</div>", 
+                "", 
+                "<div>{{c26::[latex]\\textgreek{A}, \\textgreek{a}: “alpha”[/latex]}}</div><div>{{c26::[latex]\\textgreek{B}, \\textgreek{b}: “beta”[/latex]}}</div><div>{{c26::[latex]\\textgreek{G}, \\textgreek{g}: “gamma”[/latex]}}</div><div>{{c26::[latex]\\textgreek{D}, \\textgreek{d}: “delta”[/latex]}}</div><div>{{c26::[latex]\\textgreek{E}, \\textgreek{e}: “epsilon”[/latex]}}</div><div>{{c26::[latex]\\textgreek{Z}, \\textgreek{z}: “zeta”[/latex]}}</div><div>{{c26::[latex]\\textgreek{H}, \\textgreek{h}: “eta”[/latex]}}</div><div>{{c26::[latex]\\textgreek{J}, \\textgreek{j}: “theta”[/latex]}}</div><div>{{c26::[latex]\\textgreek{I}, \\textgreek{i}: “iota”[/latex]}}</div><div>{{c26::[latex]\\textgreek{K}, \\textgreek{k}: “kappa”[/latex]}}</div><div>{{c26::[latex]\\textgreek{L}, \\textgreek{l}: “lambda”[/latex]}}</div><div>{{c26::[latex]\\textgreek{M}, \\textgreek{m}: “mu”[/latex]}}</div><div>{{c26::[latex]\\textgreek{N}, \\textgreek{n}: “nu”[/latex]}}</div><div>{{c26::[latex]\\textgreek{X}, \\textgreek{x}: “xi”[/latex]}}</div><div>{{c26::[latex]\\textgreek{O}, \\textgreek{o}: “omicron”[/latex]}}</div><div>{{c26::[latex]\\textgreek{P}, \\textgreek{p}: “pi”[/latex]}}</div><div>{{c26::[latex]\\textgreek{R}, \\textgreek{r}: “rho”[/latex]}}</div><div>{{c26::[latex]\\textgreek{S}, \\textgreek{σ} / \\textgreek{s}: “sigma”[/latex]}}</div><div>{{c26::[latex]\\textgreek{T}, \\textgreek{t}: “tau”[/latex]}}</div><div>{{c26::[latex]\\textgreek{U}, \\textgreek{u}: “upsilon”[/latex]}}</div><div>{{c26::[latex]\\textgreek{F}, \\textgreek{f}: “phi”[/latex]}}</div><div>{{c26::[latex]\\textgreek{Q}, \\textgreek{q}: “chi”[/latex]}}</div><div>{{c26::[latex]\\textgreek{Y}, \\textgreek{y}: “psi”[/latex]}}</div><div>{{c26::[latex]\\textgreek{W}, \\textgreek{w}: “omega”[/latex]}}</div>"
+            ], 
+            "flags": 0, 
+            "guid": "dGr|:Hpm,B", 
+            "note_model_uuid": "fc69cae8-be7d-11e7-8f87-f40f24223d5f", 
+            "tags": [
+                "!overlapping-cloze", 
+                "alphabet", 
+                "language::Greek"
+            ]
+        }
+    ]
+}
