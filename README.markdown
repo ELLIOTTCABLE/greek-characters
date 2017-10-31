@@ -21,21 +21,21 @@ Next, create your own fork of this deck on GitHub, and download it:
 
 1. [Sign up][] for a free GitHub account:
 
-   ![](http://i.ell.io/WnrOXd+?.png)
+   <img src="http://i.ell.io/WnrOXd+?.png" width="500">
 
 2. [Fork][] this repository to your own account:
 
-   ![](http://i.ell.io/hjO4rY+?.png)
+   <img src="http://i.ell.io/hjO4rY+?.png" width="500">
 
 3. Install [GitHub Desktop][] and log-in.
 
 4. “Clone” your new fork to your computer:
 
-   ![](http://i.ell.io/TmZ5nz+?.png)
+   <img src="http://i.ell.io/TmZ5nz+?.png" width="500">
 
 5. Open the “File” menu, choose **CrowdAnki: Import from disk**, and navigate to that clone's folder:
 
-   ![](http://i.ell.io/NfEHxa+?.png)
+   <img src="http://i.ell.io/NfEHxa+?.png" width="500">
 
 Now, you can make your changes to the deck inside Anki.
 
