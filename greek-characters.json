@@ -204,7 +204,7 @@
         "latex-f7fe9125f0d551150f036d99b6f66a5423ce40f0.png.dat", 
         "latex-3a80a74e34cff9e84bc256daa1ed1661683eef0f.png"
     ], 
-    "name": "Greek: Characters & alphabet", 
+    "name": "greek-characters", 
     "note_models": [
         {
             "__type__": "NoteModel", 
