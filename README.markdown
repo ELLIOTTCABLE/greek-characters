@@ -10,9 +10,7 @@ The simplest way to use this deck is to download it from AnkiWeb:
 
 ### <https://ankiweb.net/shared/info/1871078367>
 
-Alternatively, if you wish to modify this deck and collaboratively submit changes here on GitHub
-
-To modify this deck and submit the changes collaboratively on GitHub, first install the [CrowdAnki][] plugin:
+Alternatively, if you wish to modify this deck and collaboratively submit changes here on GitHub, you **must** import it with [CrowdAnki][], instead, **before** making any changes:
 
 1. Open Anki's **“Decks”** window,
 2. In the **“Tools”** menu, choose **Add-ons > Browse & Install ...**,
@@ -22,14 +20,26 @@ To modify this deck and submit the changes collaboratively on GitHub, first inst
 Next, create your own fork of this deck on GitHub, and download it:
 
 1. [Sign up][] for a free GitHub account:
+
+   ![](http://i.ell.io/WnrOXd+?.png)
+
 2. [Fork][] this repository to your own account:
-3. Install [GitHub Desktop][] and log-in:
+
+   ![](http://i.ell.io/hjO4rY+?.png)
+
+3. Install [GitHub Desktop][] and log-in.
+
 4. “Clone” your new fork to your computer:
+
+   ![](http://i.ell.io/TmZ5nz+?.png)
+
 5. Open the “File” menu, choose **CrowdAnki: Import from disk**, and navigate to that clone's folder:
+
+   ![](http://i.ell.io/NfEHxa+?.png)
 
 Now, you can make your changes to the deck inside Anki.
 
-When you're done, and wish to submit your changes, you must “commit”, “push”, and “pull-request” those changes so that I see them:
+When you're done with some changes, and wish to submit them, you must “commit”, “push”, and “pull-request” those changes so that I see them:
 
 1. ...
 
