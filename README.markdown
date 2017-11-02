@@ -1,4 +1,4 @@
-Anki Deck: Greek characters & alphabet
+Anki Deck: Greek alphabet & characters
 ======================================
 This is a collaboratively-improved [Spaced Repetition][] ([Wikipedia][wiki]) flashcard-deck to help you memorize the Greek character-set, useful in mathematics and (typed) software-development.
 
@@ -14,7 +14,7 @@ Usage
 -----
 The simplest way to use this deck is to download it from AnkiWeb:
 
-### <https://ankiweb.net/shared/info/1871078367>
+#### <https://ankiweb.net/shared/info/1871078367>
 
 Alternatively, if you wish to modify this deck and collaboratively submit changes here on GitHub, you **must** import it with [CrowdAnki][], instead, **before** making any changes:
 
