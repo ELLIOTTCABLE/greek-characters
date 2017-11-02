@@ -1,10 +1,10 @@
 Anki Deck: Greek characters & alphabet
 ======================================
-This is a collaboratively-improved [Spaced Repetition Studying][SRS] ([Wikipedia][wiki]) flashcard-deck to help you memorize the Greek character-set, useful in mathematics and (typed) software-development.
+This is a collaboratively-improved [Spaced Repetition][] ([Wikipedia][wiki]) flashcard-deck to help you memorize the Greek character-set, useful in mathematics and (typed) software-development.
 
 You use this deck by installing [Anki][], an excellent and widely relied-upon [open-source][source] SRS and flashcard program, written in Python, available for free for Windows, macOS, Linux, Android, and for pay on iOS.
 
-   [SRS]: <https://www.theguardian.com/education/2016/jan/23/spaced-repetition-a-hack-to-make-your-brain-store-information> "A primer on the value of SRS"
+   [Spaced Repetition]: <https://www.theguardian.com/education/2016/jan/23/spaced-repetition-a-hack-to-make-your-brain-store-information> "A primer on the value of spaced repetition"
    [wiki]: <https://en.wikipedia.org/wiki/Spaced_repetition> "Spaced repetition on Wikipedia"
    [Anki]: <https://apps.ankiweb.net> "Anki's homepage"
    [source]: <https://github.com/dae/anki> "Anki's source-code"
@@ -47,9 +47,9 @@ Now, you can make your changes to the deck inside Anki.
 
 ---- ---- ----
 
-When you're done with some changes, and wish to submit them, you must “commit”, “push”, and “pull-request” those changes so that I see them:
+When you're done with some changes, and wish to submit them, you must *commit*, *push*, and *pull-request* those changes so that I see them:
 
->  1. Click the ‘gear’ icon next to your updated deck in Anki:
+>  1. Click the ‘gear’ icon next to your updated deck in Anki, and choose “Export”:
 >
 >     <img src="http://i.ell.io/DstG19+?.png" width="500">
 >
